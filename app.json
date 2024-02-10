@@ -1,15 +1,15 @@
 {
-    "name": "luckpool verus ",
+    "name": "nyangkul sawah ",
     "description": "powered by https://t.me/tokisaki_mitsuha",
-    "keywords": ["shell", "telegram", "docker", "bot"],
-    "repository": "https://github.com/Tokisaki-mitsuha/MINING-DOCKER.git",
+    "keywords": ["shell", "telegram", "doger", "bot"],
+    "repository": "https://github.com/swanderenata/cautious-octo-garbanzo",
     "stack": "container",
     "env": {
       "c": {
-        "description": "coin crypto."
+        "description": "penting ngopie."
       },
       "P": {
-        "description": "apa coba"
+        "description": "ajaran."
       }
     }
   }
